@@ -5,5 +5,24 @@
 
 When the classification results are examined, it is concluded that the most successful predictions are obtained with the pre-trained representations. The weighted accuracy ratio is 91% for both Convolutional Neural Network and Multilayer Perceptrons models while this ratio is 87% for the Support Vector Machine models. Among the emotional states, Fear has the highest recognition ratio with 95% f-score with Convolutional Neural Network technique which uses a pre-trained model
 
-Components of the study
+Components of the study:
+
+
 <img width="606" alt="image" src="https://github.com/fatma010/speech_emotion_recognition/assets/73019838/cc281a1f-2e94-47cf-8b1c-a52e83a734f9">
+
+Waveforms are given in figures and the X-axis shows Time (sec) and the Y-axis shows amplitude. Figures in ‘a’ to ‘c’ belong to the emotion of neutral. In (a) record is taken from speaker 1 from RAVDESS which represents “Kids are talking by the door” utterances. In (b) record is taken from OAF actress from the TESS which represents “Say the word dog” utterance. In (c) record is taken from speaker 13 from EMODB for “Das will sie am Mittwoch abgeben” utterance which means “She will hand it in on Wednesday”.
+
+a:
+
+
+<img width="378" alt="image" src="https://github.com/fatma010/speech_emotion_recognition/assets/73019838/f2f46d10-dcc8-4d31-9245-0f777910da6a">
+
+b:
+
+
+<img width="378" alt="image" src="https://github.com/fatma010/speech_emotion_recognition/assets/73019838/7b0d83c5-cb74-4a7c-b18a-bed661c3fa72">
+
+c:
+
+<img width="378" alt="image" src="https://github.com/fatma010/speech_emotion_recognition/assets/73019838/ba676424-d9a4-4232-91c2-f1be9c32c3ff">
+
