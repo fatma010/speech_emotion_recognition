@@ -3,6 +3,9 @@
 
  The main aim in this study is obtaining the most distinctive emotional features. For this purpose, in order to compare audio features based on different domains Root Mean Square Energy (RMSE), Zero Crossing Rate (ZCR), Chroma and Mel Frequency Cepstral Coefficients (MFCC) features are examined for emotion recognition. A pre-trained model namely wav2vec Large which has been developed more recently is used to create the inputs also. Support Vector Machine, Multi-Layer Perceptron and Convolutional Neural Network techniques are utilized for developing learning models for comparing traditional features and the pre-trained model representations. In this paper emotions namely, Happy, Calm, Angry, Boredom, Disgust, Fear, Neutral, Sad and Surprise are classified, and furthermore, the models are trained and tested with English and German speech datasets.
 
+
+ 
+
 When the classification results are examined, it is concluded that the most successful predictions are obtained with the pre-trained representations. The weighted accuracy ratio is 91% for both Convolutional Neural Network and Multilayer Perceptrons models while this ratio is 87% for the Support Vector Machine models. Among the emotional states, Fear has the highest recognition ratio with 95% f-score with Convolutional Neural Network technique which uses a pre-trained model
 
 Components of the study:
